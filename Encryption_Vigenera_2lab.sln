@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption_Vigenera_2lab", "Encryption_Vigenera_2lab\Encryption_Vigenera_2lab.csproj", "{FDFD2BEA-586E-4D69-86E4-707E2D011DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDFD2BEA-586E-4D69-86E4-707E2D011DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFD2BEA-586E-4D69-86E4-707E2D011DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFD2BEA-586E-4D69-86E4-707E2D011DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFD2BEA-586E-4D69-86E4-707E2D011DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB9FCAA6-41D9-4EAB-AD41-52893A9233D1}
+	EndGlobalSection
+EndGlobal
