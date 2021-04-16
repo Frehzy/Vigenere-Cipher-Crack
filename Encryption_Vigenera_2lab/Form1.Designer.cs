@@ -169,7 +169,7 @@ namespace Encryption_Vigenera_2lab
             this.nowINTLabel.ReadOnly = true;
             this.nowINTLabel.Size = new System.Drawing.Size(45, 23);
             this.nowINTLabel.TabIndex = 15;
-            this.nowINTLabel.Text = "0/11";
+            this.nowINTLabel.Text = "0/15";
             this.nowINTLabel.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.nowINTLabel.Theme = MetroFramework.MetroThemeStyle.Dark;
             // 

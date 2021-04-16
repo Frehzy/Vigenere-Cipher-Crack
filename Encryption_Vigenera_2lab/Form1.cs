@@ -133,7 +133,7 @@ namespace Encryption_Vigenera_2lab
         #region Кнопка "Взломать"
         private async void hackButton_Click(object sender, EventArgs e)
         {
-            int maxLengthKey = 16; //максимальная длина ключа
+            int maxLengthKey = 20; //максимальная длина ключа
 
             metroLabel1.Text = "Затраченное на взлом время: 0:00:0:00:0:00.0:000";
 
@@ -144,7 +144,7 @@ namespace Encryption_Vigenera_2lab
             } //отклчение всех элементов в форме
 
             IProgress<int> progress = new Progress<int>(v => metroProgressBar1.Value = v); //изменение прогресс бара
-            IProgress<int> nowINT = new Progress<int>(now => nowINTLabel.Text = now.ToString() + "/11"); //изменение цифр около прогресс бара о текущем состоянии
+            IProgress<int> nowINT = new Progress<int>(now => nowINTLabel.Text = now.ToString() + "/15"); //изменение цифр около прогресс бара о текущем состоянии
 
             listBox1.Items.Clear(); //очистка листа в ключами
             metroProgressBar1.Value = 0; //установка значения прогресс бара в 0
@@ -179,12 +179,12 @@ namespace Encryption_Vigenera_2lab
                                 if (temp == q) //если этот элемент встречается, то....
                                 {
                                     megaFinalList.Add(i.ToString());
-                                    
                                 }
                             }
                             temp += i;
                         }
                     }
+
                     //listBox1.Items.Clear();
                     //megaFinalList = megaFinalList.Distinct().ToList(); //удаляем дубликаты
                     listBox1.Items.Clear();
@@ -243,7 +243,7 @@ namespace Encryption_Vigenera_2lab
             }
             catch (Exception ex)
             {
-                var notif = MessageBox.Show("Выполнить углублённый поиск ключа?", "Не найдено достаточное для взлома количество повторяющихся элементов", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                var notif = MessageBox.Show("Не найдено достаточное для взлома количество повторяющихся элементов", "Выполнить углублённый поиск ключа?", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                 //MessageBox.Show(ex.Message); если нужно будет узнать ошибку
 
                 if (notif == DialogResult.Yes) //ЕСЛИ ЭТА ХУЕТА НИЧЕГО НЕ НАЙДЁТ, ТО ДАТЬ ПО ЕБАЛУ РАЗРАБУ...КХМ...ПЕРЕБОР ДЛЯ МАКСИМАЛЬНОГО КЛЮЧА = 50

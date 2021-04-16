@@ -43,35 +43,27 @@ namespace Encryption_Vigenera_2lab
                     nowINT.Report(nowINT0);
                     if (i < newWORD.Length - (maxLength - 1))
                     {
-                        string b = "";
-                        for (int qq = 0; qq < maxLength; qq++)
-                            b += newWORD[i + qq].ToString();
+                        string b = newWORD.Substring(i, maxLength);
 
                         for (int j = 0; j <= newWORD.Length; j++)
                         {
                             if (j < newWORD.Length - (maxLength - 1))
                             {
-                                string c = "";
-                                for (int q = 0; q < maxLength; q++)
-                                    c += newWORD[j + q].ToString();
+                                string c = newWORD.Substring(j, maxLength);
 
-                                if ((b == c) && (i != j))
+                                if (i != j && b == c)
                                 {
                                     //вывод повторяющихся элементов
                                     //Console.WriteLine(b + "[" + i + "]" + " Повторяется с " + c + "[" + j + "]");
 
-                                    for (double l = 4; l <= 150; l++) //длина ключа ОТ и ДО (3 до 25)
+                                    for (int l = 4; l <= 75; l++) //длина ключа ОТ и ДО (4 до 75)
                                     {
-                                        if ((j - i) > 0) //если число положительное (проверка)
+                                        if (j > i) //если число положительное (проверка)
                                         {
-                                            double Check = (j - i) / l; //и выполняется условие
+                                            double Check = (j - i) / (double)l; //и выполняется условие
                                             if (Check % 1 == 0) //и остаток от деления равен 0
                                             {
-                                                int l_int = Convert.ToInt32(l);
-                                                if (KeyLength.ContainsKey(l_int))
-                                                    KeyLength[l_int]++;
-                                                else
-                                                    KeyLength[l_int] = 1;
+                                                KeyLength[l] = KeyLength.TryGetValue(l, out int value) ? value + 1 : 1;
                                             }
                                         }
                                     }
@@ -149,6 +141,7 @@ namespace Encryption_Vigenera_2lab
                 MessageBox.Show(sb.ToString(), "Кажется, найдено несколько ключей");
             }*/
 
+
             foreach (var nowKeyLength in secretkeysLength)
             {
                 var xxx = Enumerable.Range(0, (int)Math.Ceiling((decimal)a.Length / nowKeyLength.Key)) // Получим число слов
@@ -200,7 +193,7 @@ namespace Encryption_Vigenera_2lab
                 letter.Add(new LetterFreq() { letter = 'я', freq = 0.018M });
                 #endregion
 
-                //ПОПЫТКА НАЙТИ ЕБАНЫЙ КЛЮЧ
+                //ПОПЫТКА НАЙТИ КЛЮЧ
                 var sum = 0M; //просто счёт это частоты
                 var hash = 1M; //херня для нахождения меньшей частоты по ебучей формуле
                 string keyWord = "";
