@@ -1,0 +1,52 @@
+D:\Program Files (x86)\Microsoft Visual Studio\source\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\bin\Debug\Encryption_Vigenera_2lab.exe.config
+D:\Program Files (x86)\Microsoft Visual Studio\source\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\bin\Debug\Encryption_Vigenera_2lab.exe
+D:\Program Files (x86)\Microsoft Visual Studio\source\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\bin\Debug\Encryption_Vigenera_2lab.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\source\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\bin\Debug\MetroFramework.dll
+D:\Program Files (x86)\Microsoft Visual Studio\source\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\bin\Debug\MetroFramework.Fonts.dll
+D:\Program Files (x86)\Microsoft Visual Studio\source\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.csprojAssemblyReference.cache
+D:\Program Files (x86)\Microsoft Visual Studio\source\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.Form1.resources
+D:\Program Files (x86)\Microsoft Visual Studio\source\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.Properties.Resources.resources
+D:\Program Files (x86)\Microsoft Visual Studio\source\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.csproj.GenerateResource.cache
+D:\Program Files (x86)\Microsoft Visual Studio\source\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Microsoft Visual Studio\source\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.csproj.CopyComplete
+D:\Program Files (x86)\Microsoft Visual Studio\source\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.exe
+D:\Program Files (x86)\Microsoft Visual Studio\source\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.pdb
+C:\Users\frehz\Desktop\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\bin\Debug\Encryption_Vigenera_2lab.exe.config
+C:\Users\frehz\Desktop\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\bin\Debug\Encryption_Vigenera_2lab.exe
+C:\Users\frehz\Desktop\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\bin\Debug\Encryption_Vigenera_2lab.pdb
+C:\Users\frehz\Desktop\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\bin\Debug\MetroFramework.dll
+C:\Users\frehz\Desktop\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\frehz\Desktop\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.csprojAssemblyReference.cache
+C:\Users\frehz\Desktop\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.Form1.resources
+C:\Users\frehz\Desktop\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.Properties.Resources.resources
+C:\Users\frehz\Desktop\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.csproj.GenerateResource.cache
+C:\Users\frehz\Desktop\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.csproj.CoreCompileInputs.cache
+C:\Users\frehz\Desktop\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.csproj.CopyComplete
+C:\Users\frehz\Desktop\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.exe
+C:\Users\frehz\Desktop\Encryption_Vigenera_2lab\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.pdb
+C:\Users\frehz\Desktop\Зенков\САМ КОД ВИЖЕНЕР\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.csprojAssemblyReference.cache
+C:\Users\frehz\Desktop\Зенков\САМ КОД ВИЖЕНЕР\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.Form1.resources
+C:\Users\frehz\Desktop\Зенков\САМ КОД ВИЖЕНЕР\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.Properties.Resources.resources
+C:\Users\frehz\Desktop\Зенков\САМ КОД ВИЖЕНЕР\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.csproj.GenerateResource.cache
+C:\Users\frehz\Desktop\Зенков\САМ КОД ВИЖЕНЕР\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.csproj.CoreCompileInputs.cache
+C:\Users\frehz\Desktop\Зенков\САМ КОД ВИЖЕНЕР\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.exe
+C:\Users\frehz\Desktop\Зенков\САМ КОД ВИЖЕНЕР\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.pdb
+C:\Users\frehz\Desktop\Зенков\САМ КОД ВИЖЕНЕР\Encryption_Vigenera_2lab\bin\Debug\Encryption_Vigenera_2lab.exe.config
+C:\Users\frehz\Desktop\Зенков\САМ КОД ВИЖЕНЕР\Encryption_Vigenera_2lab\bin\Debug\Encryption_Vigenera_2lab.exe
+C:\Users\frehz\Desktop\Зенков\САМ КОД ВИЖЕНЕР\Encryption_Vigenera_2lab\bin\Debug\Encryption_Vigenera_2lab.pdb
+C:\Users\frehz\Desktop\Зенков\САМ КОД ВИЖЕНЕР\Encryption_Vigenera_2lab\bin\Debug\MetroFramework.dll
+C:\Users\frehz\Desktop\Зенков\САМ КОД ВИЖЕНЕР\Encryption_Vigenera_2lab\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\frehz\Desktop\Зенков\САМ КОД ВИЖЕНЕР\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.csproj.CopyComplete
+C:\Users\frehz\Desktop\Зенков\готовое решение\Encryption_Vigenera_2lab\bin\Debug\Encryption_Vigenera_2lab.exe.config
+C:\Users\frehz\Desktop\Зенков\готовое решение\Encryption_Vigenera_2lab\bin\Debug\Encryption_Vigenera_2lab.exe
+C:\Users\frehz\Desktop\Зенков\готовое решение\Encryption_Vigenera_2lab\bin\Debug\Encryption_Vigenera_2lab.pdb
+C:\Users\frehz\Desktop\Зенков\готовое решение\Encryption_Vigenera_2lab\bin\Debug\MetroFramework.dll
+C:\Users\frehz\Desktop\Зенков\готовое решение\Encryption_Vigenera_2lab\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\frehz\Desktop\Зенков\готовое решение\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.csprojAssemblyReference.cache
+C:\Users\frehz\Desktop\Зенков\готовое решение\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.Form1.resources
+C:\Users\frehz\Desktop\Зенков\готовое решение\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.Properties.Resources.resources
+C:\Users\frehz\Desktop\Зенков\готовое решение\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.csproj.GenerateResource.cache
+C:\Users\frehz\Desktop\Зенков\готовое решение\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.csproj.CoreCompileInputs.cache
+C:\Users\frehz\Desktop\Зенков\готовое решение\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.csproj.CopyComplete
+C:\Users\frehz\Desktop\Зенков\готовое решение\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.exe
+C:\Users\frehz\Desktop\Зенков\готовое решение\Encryption_Vigenera_2lab\obj\Debug\Encryption_Vigenera_2lab.pdb
